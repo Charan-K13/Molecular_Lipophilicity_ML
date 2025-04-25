@@ -1,2 +1,2 @@
 # Molecular_Lipophilicity_ML
-Machine Learning model to predict Lipophilicity of molecules based on chemical features
+Beginner-Friendly Machine Learning model to predict Lipophilicity of molecules based on chemical features
